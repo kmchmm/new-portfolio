@@ -13,7 +13,7 @@ function Home() {
         </div>
 
         <div className="intro-text">
-          <h1>Hello, I'm Your Name 👋</h1>
+          <h1>Hello, I'm Kim Miculob</h1>
           <p>
             I’m a passionate frontend developer focused on building clean and
             user-friendly web applications using modern technologies.
